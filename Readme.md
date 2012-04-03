@@ -1,4 +1,4 @@
-# Howdy Y'all 
+# finally you are here  - Howdy 
 
 **The University of Chicago Software Carpentry Boot Camp 2012**
 
