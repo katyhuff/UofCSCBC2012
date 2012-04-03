@@ -1,4 +1,4 @@
-# Welcome 
+# finally you are here  - Welcome 
 
 **The University of Chicago Software Carpentry Boot Camp 2012**
 
